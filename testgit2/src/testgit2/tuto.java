@@ -7,6 +7,9 @@ public class tuto {
 public void afficher()
 {
 	System.out.println("c'est mon premier test");
+        System.out.println("c'est mon premier test");
+
+	
 
 }
 
